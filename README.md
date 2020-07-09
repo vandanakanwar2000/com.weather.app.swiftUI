@@ -21,13 +21,13 @@ Provide the ability to delete one or more recently searched locations.
 
 
 # Current Weather Information(GPS)
-![Current Weather](Screenshots/1.PNG)
+![Current Weather](Screenshots/1.png)
 
 # Location List( By default current location shown in the list)
-![Location List](Screenshots/2.PNG)
+![Location List](Screenshots/2.png)
 
 # Location Search with location search history
-![Location Search](Screenshots/3.PNG)
+![Location Search](Screenshots/3.png)
 
 # Delete stored location 
-![Location Search](Screenshots/4.PNG)
+![Location Search](Screenshots/4.png)
